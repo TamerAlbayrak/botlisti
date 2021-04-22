@@ -1,0 +1,12 @@
+{
+  "token": "NzM0ODIyODY3MDc3OTU1NjU1.XxXTHw.DYaTfPkfnMZiBWR_Bg5U7yC5RHs",
+  "prefix" : "!",
+  "owner" : ["352036341153923072","333146288289742850","600339330107572244"],
+  "clientid" : "734822867077955655",
+  "clientsecret" : "aVbU1eezslX3ZCTyIy4pBRKXOKyW6xZx",
+  "clientcallback" : "https://www.taxperia.cf/callback",
+  "mongoURL" : "mongodb+srv://taxperia:Tameralb52@taxperia.murtt.mongodb.net/taxperia?retryWrites=true&w=majority",
+  "serverID": "733708381381984326",
+  "footer": "GLOBAL FOOTER",
+  "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}

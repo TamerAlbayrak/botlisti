@@ -1,0 +1,82 @@
+---
+  0 debug pnpm:scope: 
+    selected: 1
+    workspacePrefix: null
+  1 info pnpm: 
+    message: "A store server is running. All store manipulations are delegated to it."
+    prefix: "/app"
+  2 debug pnpm:package-json: 
+    initial: 
+      name: "Taxperia"
+      version: "0.0.1"
+      description: "Taxperia"
+      main: "main.js"
+      scripts: 
+        start: "node main.js"
+      dependencies: 
+        alexa-rank-nodejs: "^1.0.4"
+        async-ejs: "^0.1.6"
+        axios: "^0.21.1"
+        body-parser: "^1.19.0"
+        canvacord: "^5.1.0"
+        canvas: "^2.7.0"
+        chalk: "^4.1.0"
+        cheerio: "^1.0.0-rc.6"
+        child_process: "^1.0.2"
+        cookie-parser: "^1.4.5"
+        cron: "^1.8.2"
+        discord.js: "^12.5.1"
+        ejs: "^3.1.6"
+        express: "^4.17.1"
+        express-session: "^1.17.1"
+        fs: "^0.0.2"
+        hastebin-gen: "^2.0.5"
+        helmet: "^4.4.1"
+        jimp: "^0.16.1"
+        js-alert: "^1.0.4"
+        level-session-store: "^2.2.0"
+        marked: "^2.0.0"
+        memorystore: "^1.6.4"
+        moment: "^2.29.1"
+        moment-duration-format: "^2.3.2"
+        mongoose: "^5.11.17"
+        node-fetch: "^2.6.1"
+        parse-ms: "^2.1.0"
+        passport: "^0.4.1"
+        passport-discord: "^0.1.4"
+        path: "^0.12.7"
+        referrer-policy: "^1.2.0"
+        request: "^2.88.2"
+        sweetalert: "^2.1.2"
+        sweetalert2: "10.15.6"
+        vcodes.js: "0.0.1-beta"
+        void.nsfw: "^1.0.8-beta"
+      engines: 
+        node: "12.x"
+      repository: 
+        url: ""
+      license: "MIT"
+      keywords: 
+        - "node"
+        - "glitch"
+        - "express"
+      readme: "# vCodes.xyz\n<a href=\"https://vcodes.xyz/dc\" target=\"_blank\"><img src=\"https://img.devsforum.net/tr/img/h1Z2X3.png\" alt=\"Join our discord\" width=\"256\"></a><br>\n**Support:** [https://vcodes.xyz/dc](https://voiddevs.org/dc) <br>\n**NPM:** [npmjs.com/package/vcodes.js](https://www.npmjs.com/package/vcodes.js)<br>\n\n  > <h3 style=\"background-color: #000;\">Change Log</h3>\n  > <p class=\"subtitle\"> Some errors fixed.</p>\n  > <p class=\"subtitle\"> Premium system removed.</p>\n  > <p class=\"subtitle\"> Admin Panel modified..</p>\n  > <p class=\"subtitle\"> Bots, Bot info command added.</p>\n  > <p class=\"subtitle\"> The \"latest bots\" section has been added to the Homepage.</p>\n  > <p class=\"subtitle\"> The code search channel was removed.</p>\n  > <p class=\"subtitle\"> Bot autorole has been added.</p>\n  > <p class=\"subtitle\"> Code request removed.</p>\n  > <p class=\"subtitle\"> The number of active users in the site has been added to the footer.</p>\n  > <p class=\"subtitle\"> Once the certificate is issued, automatic role assignment has been added.</p>\n  > <p class=\"subtitle\"> Elements that slow down the site have been removed.</p>\n <br><br>\n <br><br>\n \n  > [English] <p class=\"subtitle\"> We are not charities, you have conditions for use. Refuse the terms and open a private message group for us; \"Didn't you share it for people to use?\" Do not ask questions like.</p>\n  > [Türkçe] <p class=\"subtitle\"> Biz hayır kurumu değiliz, kullanım için şartlarınız vardır. Şartları reddedip bize özel mesaj grubu açıp; \"insanlar kullansın diye paylaşmadınız mı?\" gibi sorular yöneltmeyin.</p>\n  \n  \n> # Developers\n<a href=\"https://github.com/iClaudette\">👤 Claudette</a><br>\n<a href=\"https://github.com/tunarjs\">👤 Tunar</a>\n\n\n## English\n# Setup\n<a>Fill in the json files, link the required information and now it's ready.</a>\n# Extra Terms of use\n<a>- You have the permission to shoot and share videos, but you have to mention us, our server, in the video.</a><br>\n<a>- You have the permission to share in writing, but you have to mention us, our server, in the article.</a><br>\n<a>- - You are permitted to use and must include us in Footer`(www/parts/foot.ejs)` accordingly. If you don't do this and we discover you, I would like to say that this is not a good choice for you.</a><br>\n<a>- You can't speak in a \"we did it\" way.</a><br>\n<a>- You cannot sell it.</a>\n<br><br><br><br>\n## Türkçe\n# Kurulum\n<a>Json dosyalarını doldurun, gerekli bilgileri bağlayın ve şimdi hazır.</a>\n# Ekstra Kullanım Şartları\n<a>- Video çekerek paylaşma iznine sahipsiniz fakat video içerisinde bizden, sunucumuzdan bahsetmek zorundasınız.</a><br>\n<a>- Yazılı bir şekilde paylaşma iznine sahipsiniz fakat yazı içerisinden bizden, sunucumuzdan bahsetmek zorundasınız.</a><br>\n<a>- Kullanma iznine sahipsiniz ve bu doğrultuda bizi Footer'a`(www/parts/foot.ejs)` dahil etmelisiniz. Bunu yapmazsanız ve sizi keşfedersek, bunun sizin için iyi bir seçim olmadığını söylemek isterim.</a><br>\n<a>- \"Biz yaptık\" şekilde konuşamazsın.</a><br>\n<a>- Satışını yapamazsınız.</a>\n\n<br><br><br><br><br><br>\n# Demo\n<a href=\"https://vcodes.xyz\">vcodes.xyz</a>\n\n## 💨 Run the projects\n[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/vcodes-xyz/bot-list)<br>\n[![Run on Repl.it](https://repl.it/badge/github/vcodes-xyz/bot-list)](https://repl.it/github/vcodes-xyz/bot-list)<br>\n[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vcodes-xyz/bot-list)\n"
+      readmeFilename: "README.md"
+      gitHead: "a2086d86bbc2303d242816f0f39037be9ac96193"
+      _id: "Taxperia@0.0.1"
+    prefix: "/app"
+  3 warn pnpm: 
+    message: "Moving alexa-rank-nodejs that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  4 error pnpm: 
+    message: 
+      errno: -39
+      code: "ENOTEMPTY"
+      syscall: "rename"
+      path: "/rbd/pnpm-volume/80a24256-c65a-4816-a92f-56f78e60893c/node_modules/alexa-rank-nodejs"
+      dest: "/rbd/pnpm-volume/80a24256-c65a-4816-a92f-56f78e60893c/node_modules/.ignored/alexa-rank-nodejs"
+    err: 
+      name: "Error"
+      message: "ENOTEMPTY: directory not empty, rename '/rbd/pnpm-volume/80a24256-c65a-4816-a92f-56f78e60893c/node_modules/alexa-rank-nodejs' -> '/rbd/pnpm-volume/80a24256-c65a-4816-a92f-56f78e60893c/node_modules/.ignored/alexa-rank-nodejs'"
+      code: "ENOTEMPTY"
+      stack: "Error: ENOTEMPTY: directory not empty, rename '/rbd/pnpm-volume/80a24256-c65a-4816-a92f-56f78e60893c/node_modules/alexa-rank-nodejs' -> '/rbd/pnpm-volume/80a24256-c65a-4816-a92f-56f78e60893c/node_modules/.ignored/alexa-rank-nodejs'"
